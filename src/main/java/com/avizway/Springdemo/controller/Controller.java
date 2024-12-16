@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 public class Controller {
 	
 	/*
-	 * @GetMapping("/") public String hello() { return "Hello Aviz"; }
+	 * @GetMapping("/") public String hello() { return "Hello Uday Nadivinti"; }
 	 */
 	
 	@Value("${welcome.message}")
